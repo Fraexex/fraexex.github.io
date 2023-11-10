@@ -37,6 +37,12 @@ a: hover, a: active {
     color: purple;
 }
 
+.container {
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+    outline: dashed 3px black;
+
 h1 {
     color: #000000;
     font-size: 25px;
@@ -55,6 +61,7 @@ h3 {
 p {
     color: #08114a;
     font-size: 25px;
+    justify;
 }
 
 img {
