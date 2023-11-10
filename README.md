@@ -1,2 +1,0 @@
-# Welcome
-Frontend website examples
